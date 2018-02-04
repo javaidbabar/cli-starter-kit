@@ -1,6 +1,6 @@
 {
   "name": "@javaidbabar/cli-starter-kit",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Allow to create a CLI tool quickly by defining a series of commands",
   "main": "src/index.js",
   "bin": {
