@@ -1,0 +1,25 @@
+{
+  "name": "@javaidbabar/cli-starter-kit",
+  "version": "0.1.0",
+  "description": "Allow to create a CLI tool quickly by defining a series of commands",
+  "main": "src/index.js",
+  "bin": {
+    "javaidbabar": "src/index.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/javaidbabar/cli-starter-kit.git"
+  },
+  "author": "Babar Javaid",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/javaidbabar/cli-starter-kit/issues"
+  },
+  "homepage": "https://github.com/javaidbabar/cli-starter-kit#readme",
+  "dependencies": {
+    "shelljs": "^0.8.1"
+  }
+}
